@@ -17,7 +17,7 @@ A simple command-line tool in Python that calculates your Body Mass Index (BMI) 
 
 ---
 
-### 🔑 Key Concepts & Challenges
+# Key Concepts & Challenges
 
 1. **User Input Validation**
 
@@ -42,7 +42,7 @@ A simple command-line tool in Python that calculates your Body Mass Index (BMI) 
 
 ---
 
-### 🚀 Why It Matters
+# Why It Matters
 
 This tool is a great entry point for learning:
 
@@ -52,10 +52,4 @@ This tool is a great entry point for learning:
 
 ---
 
-Feel free to include this in your **README.md** under the project title or introduction section. Let me know if you’d like a shorter tagline or bullet-style summary!
-
-[1]: https://github.com/Akilapcj/BMI-calculator?utm_source=chatgpt.com "GitHub - Akilapcj/BMI-calculator: This project demonstrates how to ..."
-[2]: https://github.com/danartech/BMI-Calculator_Python-Project?utm_source=chatgpt.com "danartech/BMI-Calculator_Python-Project - GitHub"
-[3]: https://medium.com/%40mailtoamanshri/bmi-calculator-bignners-js-project-e75fd275f673?utm_source=chatgpt.com "BMI Calculator(Bignner's JS Project) | by Aman Shrivastav | Medium"
-[4]: https://www.w3resource.com/projects/java/java-project-bmi-calculator.php?utm_source=chatgpt.com "Java Project - BMI Calculator - w3resource"
-[5]: https://github.com/Shikhabadhan01/BMI-calculator?utm_source=chatgpt.com "Shikhabadhan01/BMI-calculator - GitHub"
+![image](https://github.com/harshgithup/OIBSIP/assets/116560172/f1e2a430-2d4b-4810-a679-e85bd6cec1e1)
